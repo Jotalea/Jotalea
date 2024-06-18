@@ -1,3 +1,5 @@
+[Read english version](https://github.com/Jotalea/Jotalea/blob/main/Opinions/Windows 11.md#english)
+
 # Español
 
 Desde su lanzamiento en 2021, no me gustó el diseño de Windows 11, aunque reconozco que eso es una preferencia personal. En mi casa, conseguimos una nueva laptop que venía con Windows 11 preinstalado. Era bastante potente, con un procesador AMD Ryzen 3700U, gráficos AMD Radeon (no recuerdo cuáles exactamente), 12GB de RAM y un SSD de 512GB. Al principio, su rendimiento era bueno como se esperaba y solía funcionar bien; incluso podía jugar juegos de 3DS sin problemas (No probé juegos más pesados porque tenía acceso limitado a esa computadora, debido a que yo tenía la mía propia).
