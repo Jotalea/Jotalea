@@ -1,4 +1,4 @@
-[Read english version](https://github.com/Jotalea/Jotalea/blob/main/Opinions/Windows 11.md#english)
+[Read english version](https://github.com/Jotalea/Jotalea/blob/main/Opinions/Windows%2011.md#english)
 
 # Español
 
