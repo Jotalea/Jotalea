@@ -69,6 +69,8 @@
     - Digital zoom: 4x
     - Exposure time: [1000, 30000000000]
     - ISO sensitivity: [100, 3200]
+- Extra:
+  - AnTuTu score: 144.999
 
 # Secondary phone
 - Name: **Samsung Galaxy S7 Edge**
