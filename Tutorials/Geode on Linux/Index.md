@@ -17,7 +17,7 @@
 5. Move the Geometry Dash folder to another folder. I moved it to the Downloads folder, for example.
 ![Geometry Dash folder in Downloads](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geode7.png)
 
-6. Make sure you have Wine installed. If not, you can follow this tutorial on how to install it (I haven't done it yet, please wait).
+6. Make sure you have Wine installed. If not, you can follow [this](https://github.com/Jotalea/Jotalea/blob/main/Tutorials%2FWine%20on%20Linux%2FIndex.md) tutorial on how to install it.
 
 7. Run the installer
 
