@@ -3,7 +3,7 @@ At first, I got a new computer for free. It came with Huayra Linux preinstalled,
 That's when I started using and learning about Linux. And the more I used it, the more I customized it.
 
 ## September 2022
-![image](https://github.com/Jotalea/Jotalea/assets/67925603/3bd79415-f854-4f8d-9b01-7c326fb09ab4)
+![imagen](https://github.com/Jotalea/Jotalea/assets/67925603/46fb719e-7856-4070-9136-15f814bc8765)
 
 ---
 
