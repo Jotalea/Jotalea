@@ -17,31 +17,34 @@
 5. Move the Geometry Dash folder to another folder. I moved it to the Downloads folder, for example.
 ![Geometry Dash folder in Downloads](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geode7.png)
 
-6. Run the installer
-Select the appropriate language, click **Ok**, then **Next**, **Agree**, **Next**
+6. Make sure you have Wine installed. If not, you can follow this tutorial on how to install it (I haven't done it yet, please wait).
 
-7. Click **Browse**
+7. Run the installer
 
-8. Search for the Geometry Dash folder you moved previously
+8. Select the appropriate language, click **Ok**, then **Next**, **Agree**, **Next**
+
+9. Click **Browse**
+
+10. Search for the Geometry Dash folder you moved previously
 ![Geode Installer - Browse for Geometry Dash folder](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geode8.png)
 In my case, it's in the Downloads folder
 
-9. Once selected, it should look like this
+11. Once selected, it should look like this
 ![Geode Installer with Geometry Dash folder selected](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geode9.png)
 
-10. Click **Install** and wait for it to finish
+12. Click **Install** and wait for it to finish
 
-11. Move the Geometry Dash folder back to the **Steam** folder (/home/user/.local/share/Steam/steamapps/common)
+13. Move the Geometry Dash folder back to the **Steam** folder (/home/user/.local/share/Steam/steamapps/common)
 ![Geometry Dash folder back in Steam directory](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geodeA.png)
 
-12. Go back to Steam, then click the **Manage** icon > **Properties**
+14. Go back to Steam, then click the **Manage** icon > **Properties**
 ![Steam > Geometry Dash > Manage > Properties](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geodeB.png)
 
-13. Paste this in the **Launch Options** textbox:
+15. Paste this in the **Launch Options** textbox:
 ```WINEDLLOVERRIDES="XInput1_4=n,b" %command%```
 ![Wine DLL override flag](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geodeC.png)
 
-14. **Launch** the game as usual
+16. **Launch** the game as usual
 ![Geometry Dash with Geode modloader installed](https://raw.githubusercontent.com/Jotalea/Jotalea/main/Tutorials/Geode%20on%20Linux/geodeD.png)
 
 That's it, now you can install any mod available. If this helped you, I'd love that you star this repository.
