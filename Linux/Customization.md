@@ -30,3 +30,14 @@ That's when I started using and learning about Linux. And the more I used it, th
 
 ## July 2024
 ![imagen](https://github.com/Jotalea/Jotalea/assets/67925603/69216ae4-952f-47ff-be3c-3a5943c533ab)
+
+---
+
+## August 2024
+Icon pack
+![Captura desde 2024-08-02 12-48-16](https://github.com/user-attachments/assets/41de4ed9-3d62-43f1-b283-5c2181744c44)
+
+Minecraft font
+![Captura desde 2024-07-23 13-11-26](https://github.com/user-attachments/assets/962586f5-a428-4a7b-a4ab-3fd033f44756)
+
+Finally shared my [dotfiles](https://github.com/Jotalea/dotfiles)
