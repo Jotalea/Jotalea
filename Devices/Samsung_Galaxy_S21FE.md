@@ -1,1 +1,31 @@
-I should write this when I get to my computer
+# Samsung Galaxy S21FE
+ - Name: Samsung Galaxy S21 FE
+ - Model: SM-G990U
+ - Processor:
+   - Brand: Qualcomm Snapdragon 888
+   - 16 cores
+   - arm64
+ - Graphics: Adreno 660
+ - RAM: 6 GB
+ - Storage: 128 GB UFS 3.1
+ - Display:
+   - 6.4 inches
+   - Dynamic AMOLED 2X
+   - 1080x2400 pixels
+   - 120 Hz
+ - OS:
+   - Name: Android 14
+   - UI: One UI 6.1
+   - Kernel: 5.4.254
+ - Features:
+   - 5G connectivity
+   - IP68 water and dust resistance
+   - In-display optical fingerprint sensor
+   - Wireless charging
+   - Reverse wireless charging
+ - Camera(s):
+   - Rear:
+     - 12 MP main sensor with OIS
+     - 12 MP ultrawide sensor
+     - 8 MP telephoto sensor with 3x optical zoom
+   - Front: 32 MP selfie camera
