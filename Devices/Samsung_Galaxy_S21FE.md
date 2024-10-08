@@ -1,5 +1,5 @@
-# Samsung Galaxy S21FE
- - Name: Samsung Galaxy S21 FE
+# Powerful phone
+ - Name: **Samsung Galaxy S21 FE**
  - Model: SM-G990U
  - Processor:
    - Brand: Qualcomm Snapdragon 888
