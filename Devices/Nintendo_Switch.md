@@ -1,1 +1,26 @@
-.
+# Template
+- Name: Nintendo Switch
+- Model: HAC-001 (-01)
+- Processor:
+  - NVIDIA Custom Tegra
+  - 4 cores
+  - ARM Cortex-A57 (64-bit)
+- Graphics: NVIDIA Maxwell-based GPU
+- RAM: 4 GB
+- Storage: 32 GB
+- Display:
+  - 6.2 inches
+  - LCD
+  - 1280x720 pixels
+  - 60 Hz
+- OS:
+  - Name: Nintendo Switch Firmware
+  - Version: 18.0
+  - Kernel: Custom kernel (based on FreeBSD)
+- Features:
+  - Detachable Joy-Con controllers
+  - Dock for TV mode
+  - Tabletop and Handheld modes
+  - Wi-Fi, Bluetooth, NFC
+- Camera(s):
+  - Infrared (IR) camera (on right Joy-Con for motion sensing)
