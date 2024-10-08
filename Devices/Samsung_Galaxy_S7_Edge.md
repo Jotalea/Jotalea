@@ -1,1 +1,32 @@
-.
+# Broken phone :(
+- Name: **Samsung Galaxy S7 Edge**
+- Model: SM-G935F
+- Processor:
+  - Exynos 8890 Octa
+  - 8 cores (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)
+  - 64-bit; armeabi-v7a
+- Graphics: Mali-T880 MP12
+- RAM: 4GB LPDDR4
+- Storage: 32GB
+- Display:
+  - 5.5 inches
+  - Super AMOLED
+  - 1440x2560 pixels resolution (Quad HD)
+  - 60 Hz
+- OS:
+  - Android 8.0 Oreo
+  - User Interface: Samsung Experience UI
+- Features:
+  - Fingerprint sensor (integrated into the home button)
+  - Accelerometer, gyroscope, proximity sensor, compass, barometer, heart rate sensor
+- Camera(s):
+  - Rear:
+    - Main Camera: 12 MP
+    - Aperture: f/1.7
+    - Dual Pixel technology
+    - Optical Image Stabilization (OIS)
+    - 4K video recording at 30 fps
+  - Front:
+    - Front Camera: 5 MP
+    - Aperture: f/1.7
+    - Full HD 1080p video recording
