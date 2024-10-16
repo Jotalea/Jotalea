@@ -33,23 +33,23 @@ All these tests were made under the following conditions:
 
 
 
-Shader name		-	Quality-	Windowed	-	Fullscreen	-	Sky windowed	-	Sky fullscreen
---------------------------------------------------------------------------------------------------------------
-Blue Shaders		-	3/10	-	70  fps	-	35  fps	-	160 fps	-	50  fps
-BSLClassic		-	6/10	-	43  fps	-	20  fps	-	75  fps	-	30  fps
-Builder's QOL		-	4/10	-	50  fps	-	50  fps	-	60  fps	-	60  fps
-Best Vanilla Shaders	-	2/10	-	35  fps	-	45  fps	-	45  fps	-	63  fps
-CH Motion		-	1/10	-	165 fps	-	125 fps	-	202 fps	-	195 fps
-Chocapic13		-	buggy	-	105 fps	-	70  fps	-	170 fps	-	150 fps
-Hysteria		-	crash	-	na  fps	-	na  fps	-	na  fps	-	na  fps
-Lagless		-	2/10	-	40  fps	-	20  fps	-	51  fps	-	15  fps
-MakeUp Ultra Fast	-	8/10	-	58  fps	-	35  fps	-	130 fps	-	55  fps
-MrMeepz		-	1/10	-	75  fps	-	53  fps	-	172 fps	-	95  fps
-Pixel Perfect		-	crash	-	na  fps	-	na  fps	-	na  fps	-	na  fps
-PotatoShaders	-	5/10	-	45  fps	-	30  fps 	-	60  fps	-	40  fps
-Sildur Vibrant	-	7/10	-	70  fps	-	30  fps	-	120 fps	-	35  fps
-Vanilla Plus		-	7/10	-	35  fps	-	20  fps	-	70  fps	-	27  fps
-Vanilletix		-	8/10	-	67  fps	-	30  fps	-	160 fps	-	60  fps
+| Shader Name           | Quality | Windowed FPS | Fullscreen FPS | Sky Windowed FPS | Sky Fullscreen FPS |
+|-----------------------|---------|--------------|----------------|------------------|--------------------|
+| Blue Shaders          | 3/10    | 70 fps       | 35 fps         | 160 fps          | 50 fps             |
+| BSLClassic            | 6/10    | 43 fps       | 20 fps         | 75 fps           | 30 fps             |
+| Builder's QOL         | 4/10    | 50 fps       | 50 fps         | 60 fps           | 60 fps             |
+| Best Vanilla Shaders  | 2/10    | 35 fps       | 45 fps         | 45 fps           | 63 fps             |
+| CH Motion             | 1/10    | 165 fps      | 125 fps        | 202 fps          | 195 fps            |
+| Chocapic13            | Buggy   | 105 fps      | 70 fps         | 170 fps          | 150 fps            |
+| Hysteria              | Crash   | na           | na             | na               | na                 |
+| Lagless               | 2/10    | 40 fps       | 20 fps         | 51 fps           | 15 fps             |
+| MakeUp Ultra Fast     | 8/10    | 58 fps       | 35 fps         | 130 fps          | 55 fps             |
+| MrMeepz               | 1/10    | 75 fps       | 53 fps         | 172 fps          | 95 fps             |
+| Pixel Perfect         | Crash   | na           | na             | na               | na                 |
+| PotatoShaders         | 5/10    | 45 fps       | 30 fps         | 60 fps           | 40 fps             |
+| Sildur Vibrant        | 7/10    | 70 fps       | 30 fps         | 120 fps          | 35 fps             |
+| Vanilla Plus          | 7/10    | 35 fps       | 20 fps         | 70 fps           | 27 fps             |
+| Vanilletix            | 8/10    | 67 fps       | 30 fps         | 160 fps          | 60 fps             |
 
 
 ---
@@ -92,18 +92,20 @@ Todas estas pruebas se realizaron bajo las siguientes condiciones:
 
 Nombre del shader   -	Calidad -	Ventana	-  Pantalla completa	-	Cielo ventana	- Cielo pantalla completa
 --------------------------------------------------------------------------------------------------------------
-Blue Shaders		-	3/10	-	70  fps	-	35  fps	-	160 fps	-	50  fps  
-BSLClassic		-	6/10	-	43  fps	-	20  fps	-	75  fps	-	30  fps  
-Builder's QOL		-	4/10	-	50  fps	-	50  fps	-	60  fps	-	60  fps  
-Best Vanilla Shaders	-	2/10	-	35  fps	-	45  fps	-	45  fps	-	63  fps  
-CH Motion		-	1/10	-	165 fps	-	125 fps	-	202 fps	-	195 fps  
-Chocapic13		-	buggy	-	105 fps	-	70  fps	-	170 fps	-	150 fps  
-Hysteria		-	crash	-	na  fps	-	na  fps	-	na  fps	-	na  fps  
-Lagless		-	2/10	-	40  fps	-	20  fps	-	51  fps	-	15  fps  
-MakeUp Ultra Fast	-	8/10	-	58  fps	-	35  fps	-	130 fps	-	55  fps  
-MrMeepz		-	1/10	-	75  fps	-	53  fps	-	172 fps	-	95  fps  
-Pixel Perfect		-	crash	-	na  fps	-	na  fps	-	na  fps	-	na  fps  
-PotatoShaders	-	5/10	-	45  fps	-	30  fps 	-	60  fps	-	40  fps  
-Sildur Vibrant	-	7/10	-	70  fps	-	30  fps	-	120 fps	-	35  fps  
-Vanilla Plus		-	7/10	-	35  fps	-	20  fps	-	70  fps	-	27  fps  
-Vanilletix		-	8/10	-	67  fps	-	30  fps	-	160 fps	-	60  fps  
+| Shader Name           | Quality | Windowed FPS | Fullscreen FPS | Sky Windowed FPS | Sky Fullscreen FPS |
+|-----------------------|---------|--------------|----------------|------------------|--------------------|
+| Blue Shaders          | 3/10    | 70 fps       | 35 fps         | 160 fps          | 50 fps             |
+| BSLClassic            | 6/10    | 43 fps       | 20 fps         | 75 fps           | 30 fps             |
+| Builder's QOL         | 4/10    | 50 fps       | 50 fps         | 60 fps           | 60 fps             |
+| Best Vanilla Shaders  | 2/10    | 35 fps       | 45 fps         | 45 fps           | 63 fps             |
+| CH Motion             | 1/10    | 165 fps      | 125 fps        | 202 fps          | 195 fps            |
+| Chocapic13            | Buggy   | 105 fps      | 70 fps         | 170 fps          | 150 fps            |
+| Hysteria              | Crash   | na           | na             | na               | na                 |
+| Lagless               | 2/10    | 40 fps       | 20 fps         | 51 fps           | 15 fps             |
+| MakeUp Ultra Fast     | 8/10    | 58 fps       | 35 fps         | 130 fps          | 55 fps             |
+| MrMeepz               | 1/10    | 75 fps       | 53 fps         | 172 fps          | 95 fps             |
+| Pixel Perfect         | Crash   | na           | na             | na               | na                 |
+| PotatoShaders         | 5/10    | 45 fps       | 30 fps         | 60 fps           | 40 fps             |
+| Sildur Vibrant        | 7/10    | 70 fps       | 30 fps         | 120 fps          | 35 fps             |
+| Vanilla Plus          | 7/10    | 35 fps       | 20 fps         | 70 fps           | 27 fps             |
+| Vanilletix            | 8/10    | 67 fps       | 30 fps         | 160 fps          | 60 fps             |
