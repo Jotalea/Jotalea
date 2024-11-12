@@ -3,7 +3,8 @@
 ## Pre-requisitos
 - Saber leer (obligatorio).
 - Conexión a Internet (obligatorio).
-- Copia de seguridad de todos los archivos importantes. (recomendado)
+- Copia de seguridad de todos los archivos importantes (recomendado).
+- Pendrive de al menos 8 GB, vacío.
 
 ## Requisitos del sistema
 - Computadora, ya sea con Linux o con Windows. Este tutorial es para gente que viene de Windows.
