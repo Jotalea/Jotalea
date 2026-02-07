@@ -87,14 +87,21 @@ Discordo
 ## February 2026
 I switched to KDE Plasma
 
-<img width="1366" height="768" alt="Captura de pantalla_20260207_193230" src="https://github.com/user-attachments/assets/b54714f7-098a-433b-b563-c33434edda7e" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_193036" src="https://github.com/user-attachments/assets/39e7b6a5-0b22-411d-a13f-2cbb719f3e64" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_193000" src="https://github.com/user-attachments/assets/9af74ad0-5dbf-4fc0-b5fa-c2a7ed71b49f" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_192403" src="https://github.com/user-attachments/assets/d2067a52-d348-4d0e-989e-513bff214d42" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_184419" src="https://github.com/user-attachments/assets/96440cd9-c2c4-409b-ba73-b2e75bf39116" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_183828" src="https://github.com/user-attachments/assets/75762c7c-59fe-4645-bfa2-18e6d58d066d" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_182540" src="https://github.com/user-attachments/assets/a736a1f5-c819-467c-9837-0c4b360660af" />
-<img width="1366" height="768" alt="Captura de pantalla_20260207_182511" src="https://github.com/user-attachments/assets/d5cb09bb-a62b-46d1-ab64-b34a9449a256" />
+![Captura de pantalla_20260207_182511](https://github.com/user-attachments/assets/d5cb09bb-a62b-46d1-ab64-b34a9449a256)
+
+![Captura de pantalla_20260207_182540](https://github.com/user-attachments/assets/a736a1f5-c819-467c-9837-0c4b360660af)
+
+![Captura de pantalla_20260207_183828](https://github.com/user-attachments/assets/75762c7c-59fe-4645-bfa2-18e6d58d066d)
+
+![Captura de pantalla_20260207_184419](https://github.com/user-attachments/assets/96440cd9-c2c4-409b-ba73-b2e75bf39116)
+
+![Captura de pantalla_20260207_192403](https://github.com/user-attachments/assets/d2067a52-d348-4d0e-989e-513bff214d42)
+
+![Captura de pantalla_20260207_193000](https://github.com/user-attachments/assets/9af74ad0-5dbf-4fc0-b5fa-c2a7ed71b49f)
+
+![Captura de pantalla_20260207_193036](https://github.com/user-attachments/assets/39e7b6a5-0b22-411d-a13f-2cbb719f3e64)
+
+![Captura de pantalla_20260207_193230](https://github.com/user-attachments/assets/b54714f7-098a-433b-b563-c33434edda7e)
 
 wallpaper:
 ![arch-catppuccin](https://github.com/user-attachments/assets/f6ae7ab5-9735-43e2-b5fd-def7603ac647)
