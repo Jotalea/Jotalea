@@ -1,9 +1,47 @@
-### Hi there 👋
+# i am jotalea
 
-- 🔭 I’m currently working on [SMMWE Replay Bot](https://jotalea.itch.io/smmwe-replay-bot)
-- 🌱 I’m currently learning PHP
-- 🤔 I’m looking for help with compiling anything on C++
-- 💬 Ask me about Linux (just the basics)
-- 📫 How to reach me: on my [Discord server](https://discord.com/invite/zf3aFRs5kc)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: FIRE IN THE HOLE
+## self
+country: proud to be from 🇦🇷
+age: `bash -c 'echo $((($(date +%s)-1231362000)/31556952))'`
+pronouns: they/them (él)
+languages: spanish, english
+
+## skills
+- php
+- python
+- javascript
+- bash
+- c
+- html
+
+## how to contact me
+(from most to least preferred)\
+- [discord](https://discord.com/users/795013781607546931)
+- [tiktok](https://tiktok.com/@jotalea)
+- [guestbook](https://jotalea.com.ar/#guestbook)
+- [email](mailto:main@jotalea.com.ar)
+- [geometry dash](https://gdbrowser.com/u/jotalea)
+
+## daily use
+- [arch](https://archlinux.org/)
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [termux](https://termux.dev/en/)
+- [vesktop](https://github.com/Vencord/Vesktop)
+- [hyprland](https://hypr.land/)
+
+## philosophy
+- lowercase is much cozier than UPPERCASE
+- monospace >>>
+- if buying isn't owning, then piracy isn't stealing
+- on the internet, everyone is a man until proven else
+- if something exists, there is a cryptocurrency of it
+- microsoft fucking sucks
+- 
+
+## hardware
+| device | cpu | ram | storage | display |
+| :--- | :--- | :--- | :--- | :--- |
+| **dell inspiron 3501** | intel i3-1115g4 | 8GB DDR4 | 1TB SSD + 1TB HDD | 1366x768px |
+| **samsung s21 fe** | snapdragon 888 | 6GB LPDDR5 | 128GB UFS | 2340x1080px 120Hz |
+| **juana manso** | intel celeron n4020 | 4GB DDR4 | 240GB SSD | 1366x768px |
+| **alcatel a2 7''** | mediatek 8321 | 1GB LPDDR3 | 4GB eMMC | 640x1200px |
