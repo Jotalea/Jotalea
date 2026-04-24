@@ -1,9 +1,9 @@
 # i am jotalea
 
 ## self
-country: proud to be from 🇦🇷
-age: `bash -c 'echo $((($(date +%s)-1231362000)/31556952))'`
-pronouns: they/them (él)
+country: proud to be from 🇦🇷\
+age: `bash -c 'echo $((($(date +%s)-1231362000)/31556952))'`\
+pronouns: they/them (él)\
 languages: spanish, english
 
 ## skills
@@ -36,7 +36,6 @@ languages: spanish, english
 - on the internet, everyone is a man until proven else
 - if something exists, there is a cryptocurrency of it
 - microsoft fucking sucks
-- 
 
 ## hardware
 | device | cpu | ram | storage | display |
