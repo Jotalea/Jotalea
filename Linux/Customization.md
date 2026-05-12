@@ -40,7 +40,7 @@ Icon pack
 Minecraft font
 ![Captura desde 2024-07-23 13-11-26](https://github.com/user-attachments/assets/962586f5-a428-4a7b-a4ab-3fd033f44756)
 
-Finally shared my [dotfiles](https://github.com/Jotalea/dotfiles)
+Finally shared my [dotfiles](https://github.com/Jotalea/gnome-dotfiles)
 
 ---
 
