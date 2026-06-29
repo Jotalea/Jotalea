@@ -7,16 +7,15 @@ pronouns: they/them (él)\
 languages: spanish, english
 
 ## skills
-- c
-- php
 - bash
-- html
 - python
+- php
+- html
 - javascript
-- super ultra mega hyper artificial intelligence (enterprises love these words)
+- c
 
 ## how to contact me
-(from most to least preferred)\
+(from most to least preferred)
 - [discord](https://discord.com/users/795013781607546931)
 - [tiktok](https://tiktok.com/@jotalea)
 - [guestbook](https://jotalea.com.ar/#guestbook)
@@ -35,7 +34,6 @@ languages: spanish, english
 - lowercase is much cozier than UPPERCASE
 - `monospace >>>`
 - if buying isn't owning, then piracy isn't stealing
-- on the internet, everyone is a man until proven else
 - if something exists, there is a cryptocurrency of it
 - microsoft fucking sucks
 
