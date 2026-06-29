@@ -7,12 +7,13 @@ pronouns: they/them (él)\
 languages: spanish, english
 
 ## skills
+- c
 - php
+- bash
+- html
 - python
 - javascript
-- bash
-- c
-- html
+- super ultra mega hyper artificial intelligence (enterprises love these words)
 
 ## how to contact me
 (from most to least preferred)\
@@ -22,16 +23,17 @@ languages: spanish, english
 - [email](mailto:main@jotalea.com.ar)
 - [geometry dash](https://gdbrowser.com/u/jotalea)
 
-## daily use
+## daily driving
 - [arch](https://archlinux.org/)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [termux](https://termux.dev/en/)
 - [vesktop](https://github.com/Vencord/Vesktop)
-- [hyprland](https://hypr.land/)
+- ~~[hyprland](https://hypr.land/)~~ not anymore
+- [jotawm](https://github.com/Jotalea/jotawm) (my own window manager)
 
 ## philosophy
 - lowercase is much cozier than UPPERCASE
-- monospace >>>
+- `monospace >>>`
 - if buying isn't owning, then piracy isn't stealing
 - on the internet, everyone is a man until proven else
 - if something exists, there is a cryptocurrency of it
