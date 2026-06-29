@@ -27,7 +27,7 @@ languages: spanish, english
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [termux](https://termux.dev/en/)
 - [vesktop](https://github.com/Vencord/Vesktop)
-- ~~[hyprland](https://hypr.land/)~~ not anymore
+- [~~hyprland~~ not anymore](https://imgur.com/a/0I4ypkn)
 - [jotawm](https://github.com/Jotalea/jotawm) (my own window manager)
 
 ## philosophy
