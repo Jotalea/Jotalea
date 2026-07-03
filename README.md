@@ -36,6 +36,7 @@ languages: spanish, english
 - if buying isn't owning, then piracy isn't stealing
 - if something exists, there is a cryptocurrency of it
 - microsoft fucking sucks
+- they're called Islas Malvinas.
 
 ## hardware
 | device | cpu | ram | storage | display |
