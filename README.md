@@ -41,7 +41,7 @@ languages: spanish, english
 ## hardware
 | device | cpu | ram | storage | display |
 | :--- | :--- | :--- | :--- | :--- |
-| **thinkpad t14 gen 2 | intel i7-1185g7 | 20GB DDR4 | 512GB SSD + 128GB eMMC | 1920x1080px |
+| **thinkpad t14 gen 2** | intel i7-1185g7 | 20GB DDR4 | 512GB SSD + 128GB eMMC | 1920x1080px |
 | **dell inspiron 3501** | intel i3-1115g4 | 8GB DDR4 | 1TB SSD + 1TB HDD | 1366x768px |
 | **samsung s21 fe** | snapdragon 888 | 6GB LPDDR5 | 128GB UFS | 2340x1080px 120Hz |
 | **juana manso** | intel celeron n4020 | 4GB DDR4 | 240GB SSD | 1366x768px |
